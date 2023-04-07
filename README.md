@@ -41,6 +41,7 @@ let Mo = {
 
 ## Projects 
 | Name |Repository|
+|------|----------|
 |Rezumee|[Link](https://github.com/mo-jsx/rezumee)|
 |Larsson|[Link](https://github.com/mo-jsx/larsson)|
 |Gantz: A react component library|Private|
