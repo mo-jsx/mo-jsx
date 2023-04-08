@@ -1,11 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mo!</h1>
+<h2 align="center">I'm a Frontend Engineer, and Cyber Security enthusiast 👨‍💻</h2>
+<img align="right" src="https://media2.giphy.com/media/OIKT61NWgV9w58RyAi/giphy.gif" alt="coding workout git" width="250">
 
-#### I'm Mo!
-
-### I'm a Frontend Engineer, and Cyber Security enthusiast 👨‍💻
-
-- 🔭 I’m currently working on a digital travel agency...
-- 🌱 I’m currently learning WebGL and WebXR to provide immersive web experiences...
+- 📍 Based in **Algiers, Algeria**.
+- 💻 I specialise in **design systems**, **performant frontend applications**, **immersive application** and **managing monorepos**.
+- 🔭 I’m currently working on **Rihla** a digital travel agency.
+- 🌱 My current favorite technologies are [React](https://react.dev/), [Next](https://nextjs.org/), [Storybook](https://storybook.js.org/), [styled-components](https://styled-components.com/), [GraphQL](https://graphql.org/), [WebGL](https://get.webgl.org/), [Threejs](https://threejs.org/).
 - 👯 I’m looking to contribute to JavaScript libraries...
 - 📫 How to reach me: [Personal Website](https://mojsx.vercel.app)
 - ⚡ Fun fact: I watched all Matrin Scoresese movies...
@@ -42,6 +42,7 @@ let Mo = {
 ## Projects 
 | Name |Repository|
 |------|----------|
+|Rihla: A digital travel agency|Private|
 |Rezumee|[Link](https://github.com/mo-jsx/rezumee)|
 |Larsson|[Link](https://github.com/mo-jsx/larsson)|
 |Gantz: A react component library|Private|
