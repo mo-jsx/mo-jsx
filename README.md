@@ -5,7 +5,7 @@
 - 📍 Based in **Algiers, Algeria**.
 - 💻 I specialise in **design systems**, **performant frontend applications**, **immersive application** and **managing monorepos**.
 - 🔭 I’m currently working on **Rihla** a digital travel agency.
-- 🌱 My current favorite technologies are [React](https://react.dev/), [Next](https://nextjs.org/), [Storybook](https://storybook.js.org/), [styled-components](https://styled-components.com/), [GraphQL](https://graphql.org/), [WebGL](https://get.webgl.org/), [Threejs](https://threejs.org/).
+- 🌱 My current favorite technologies are [React](https://react.dev/), [tRPC](https://trpc.io/), [Storybook](https://storybook.js.org/), [styled-components](https://styled-components.com/), [GraphQL](https://graphql.org/), [Threejs](https://threejs.org/).
 - 👯 I’m looking to contribute to JavaScript libraries...
 - 📫 How to reach me: [Personal Website](https://mojsx.vercel.app)
 - ⚡ Fun fact: I watched all Matrin Scoresese movies...
