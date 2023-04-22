@@ -3,10 +3,10 @@
 <img align="right" src="https://media2.giphy.com/media/OIKT61NWgV9w58RyAi/giphy.gif" alt="coding workout git" width="250">
 
 - 📍 Based in **Algiers, Algeria**.
-- 💻 I specialise in **design systems**, **performant frontend applications**, **immersive application** and **managing monorepos**.
+- 💻 I specialise in **design systems**, **performant frontend applications**, **immersive web experiences** and **managing monorepos**.
 - 🔭 I’m currently working on **Rihla** a digital travel agency.
 - 🌱 My current favorite technologies are [React](https://react.dev/), [tRPC](https://trpc.io/), [Storybook](https://storybook.js.org/), [styled-components](https://styled-components.com/), [GraphQL](https://graphql.org/), [Threejs](https://threejs.org/).
-- 👯 I’m looking to contribute to JavaScript libraries...
+- 👯 I’m looking to contribute to exciting projecs...
 - 📫 How to reach me: [Personal Website](https://mojsx.vercel.app)
 - ⚡ Fun fact: I watched all Matrin Scoresese movies...
 
