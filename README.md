@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mo!</h1>
-<h2 align="center">I'm a Frontend Engineer, and Cyber Security enthusiast 👨‍💻</h2>
+<h2 align="center">I'm a Frontend Engineer, and Open Source enthusiast 👨‍💻</h2>
 <img align="right" src="https://media2.giphy.com/media/OIKT61NWgV9w58RyAi/giphy.gif" alt="coding workout git" width="250">
 
 - 📍 Based in **Algiers, Algeria**.
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I can read backwards...
 
 ### A lil more about me...
-```
+```javascript
 let Mo = {
   askMeAbout: ["Web dev", "Mobile Dev", "JavaScript", "Cryptography", "Cinema", "Tech"],
   technologies: {
@@ -34,6 +34,7 @@ let Mo = {
 ## Competitions
 |Competition| Project | Rank |
 |-----------|---------|------|
+|AUF African Startup of the year 2020|Tqochi| 5|
 |Local Hack Day|Ken| 3|
 |HackOn|Smart Forest Fire| 1|
 |Capture The Flag| - | - |
